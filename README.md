@@ -38,7 +38,7 @@ This GitHub portfolio documents my technical projects, home labs, and continuous
 
 | Skill | Portfolio Project |
 |---------|------------------|
-| Virtual Machine Deployment | <a href="https://github.com/abrahamcole-cs/SOC-Home-Lab">Blue Team SOC Lab</a> |
+| Virtual Machine Deployment | <a href="[https://github.com/abrahamcole-cs/SOC-Home-Lab](https://github.com/abrahamcole-cs/SOC-Home-Lab#step-3---create-virtual-machines)">Blue Team SOC Lab</a> |
 | Windows Administration | Blue Team SOC Lab |
 | Linux Administration | Blue Team SOC Lab |
 | Ubuntu Server Management | Blue Team SOC Lab |
