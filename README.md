@@ -5,11 +5,11 @@
 ### Aspiring SOC Analyst | IT Support Professional | Computer Science Graduate
 
 <a href="https://www.linkedin.com/in/abraham-cole/">
-<img src="https://img.shields.io/badge/LinkedIn-Abraham%20Cole-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/abrahamcole-cs">
+<img src="[https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/abrahamcole-cs/portfolio)"/>
 </a>
 
 </div>
