@@ -7,7 +7,9 @@
 <a href="https://www.linkedin.com/in/abraham-cole/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<a href="https://github.com/abrahamcole-cs/SOC-Home-Lab">
+  <img src="https://img.shields.io/badge/Enterprise_Blue_Team_SOC_Lab-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://github.com/abrahamcole-cs">
 <img src="[https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/abrahamcole-cs/portfolio)"/>
 </a>
