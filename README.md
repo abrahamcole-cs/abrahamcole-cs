@@ -18,19 +18,19 @@
 
 # 💻 About Me
 
-I'm a Computer Science graduate with professional IT support experience and a growing specialization in cybersecurity.
+I'm a Computer Science graduate with professional IT support experience and a strong interest in cybersecurity, systems administration, and security operations.
 
-I enjoy understanding **how systems work**, **how attackers exploit them**, and **how defenders detect and respond to threats**.
+My background includes supporting enterprise users, troubleshooting technical issues, and working with business-critical applications. To expand my cybersecurity skills, I actively build and document hands-on home lab projects that simulate real-world Security Operations Center (SOC) environments.
 
-My current focus is building enterprise-style security labs that simulate real Security Operations Center (SOC) environments while expanding my knowledge of Windows internals, Linux administration, networking, SIEM platforms, and threat detection.
+Through these projects, I am gaining practical experience with Windows and Linux administration, virtualization, networking, centralized logging, SIEM technologies, endpoint monitoring, and threat detection. I believe that combining professional IT experience with continuous hands-on learning is the best way to develop the skills needed to protect modern enterprise environments.
 
 ---
 
 # 🎯 Career Objective
 
-My goal is to become a **Tier 1 Security Operations Center (SOC) Analyst**, where I can apply my background in IT support, systems troubleshooting, and security monitoring to help organizations detect, investigate, and respond to cyber threats.
+My goal is to begin my cybersecurity career as a Tier 1 Security Operations Center (SOC) Analyst, where I can apply my IT support experience, analytical mindset, and growing technical knowledge to detect, investigate, and respond to security events.
 
-I believe practical experience is just as valuable as certifications, which is why I continuously build and document hands-on labs that demonstrate real technical skills.
+This GitHub portfolio documents my technical projects, home labs, and continuous learning as I develop practical skills in blue team operations and enterprise security.
 
 ---
 
