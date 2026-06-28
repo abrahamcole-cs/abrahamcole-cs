@@ -39,12 +39,12 @@ This GitHub portfolio documents my technical projects, home labs, and continuous
 | Skill | Portfolio Project |
 |---------|------------------|
 | Virtual Machine Deployment | <a href="https://github.com/abrahamcole-cs/SOC-Home-Lab#step-3---create-virtual-machines">Blue Team SOC Lab</a> |
-| Windows Administration | Blue Team SOC Lab |
-| Linux Administration | Blue Team SOC Lab |
-| Ubuntu Server Management | Blue Team SOC Lab |
-| SSH Remote Administration | Blue Team SOC Lab |
-| Virtual Networking (NAT, Host-Only, Internal) | Blue Team SOC Lab |
-| Network Connectivity Testing | Blue Team SOC Lab |
+| Windows Administration | <a href="https://github.com/abrahamcole-cs/SOC-Home-Lab#step-6---configure-the-windows-10-workstation">Blue Team SOC Lab</a> |
+| Linux Administration | <a href="https://github.com/abrahamcole-cs/SOC-Home-Lab#step-5---configure-the-devops-workstation-ubuntu-desktop">Blue Team SOC Lab</a> |
+| Ubuntu Server Management | <a href="https://github.com/abrahamcole-cs/SOC-Home-Lab#step-4---install-and-configure-the-soc-watchtower-ubuntu-server">Blue Team SOC Lab</a> |
+| SSH Remote Administration | <a href="https://github.com/abrahamcole-cs/SOC-Home-Lab#step-7---configure-remote-administration--validate-network-connectivity">Blue Team SOC Lab</a> |
+| Virtual Networking (NAT, Host-Only, Internal) | <a href="https://github.com/abrahamcole-cs/SOC-Home-Lab#step-3---create-virtual-machines">Blue Team SOC Lab</a> |
+| Network Connectivity Testing | <a href="https://github.com/abrahamcole-cs/SOC-Home-Lab#figure-72--verify-network-interfaces">Blue Team SOC Lab</a> |
 | SIEM Deployment | Coming Soon |
 | Windows Event Log Analysis | Coming Soon |
 | Sysmon Configuration | Coming Soon |
